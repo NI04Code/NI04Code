@@ -22,7 +22,7 @@
         <img src="https://skillicons.dev/icons?i=python,java,html,javascript,css,tailwind,react,bootstrap,vercel" />
     </a>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django,spring,docker,dart,flutter,postgres,tailwind,gcp,pytorch,tensorflow" />
+        <img src="https://skillicons.dev/icons?i=django,spring,docker,dart,flutter,postgres,gcp,pytorch,tensorflow" />
     </a>
 </div>
 <br>
