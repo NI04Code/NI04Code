@@ -13,7 +13,7 @@
 
 <h1 align="center">Hi There! I'm Naufal Ichsan 👋</h1>
 
-<h3 align="center">I'm an Undergraduate CompSci Student from Indonesia that take interest in Web App Development and Dynamic Field of Data</h3>
+<h3 align="center">I'm an Undergraduate CompSci Student from Indonesia that take interest in Software Engineering, Cloud Infrastructure, and Big Data Machine Learning</h3>
 
 <h4>🛠️ Language and Tools: </h4>
 <br>
